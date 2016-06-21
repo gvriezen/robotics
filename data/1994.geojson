@@ -1,0 +1,4 @@
+{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.6216507
+, 42.2972908]}, "properties": {"Year": "1994", "Team Number": "81", "City": "Freeport", "State": "Illinois", "Country": "USA", "Team Name": "81: MetalHeads"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.5041275
+, 39.1071281]}, "properties": {"Year": "1994", "Team Number": "144", "City": "Cincinnati", "State": "Ohio", "Country": "USA", "Team Name": "144: The R.O.C.K"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.745369
+, 41.6225014]}, "properties": {"Year": "1994", "Team Number": "155", "City": "Berlin", "State": "Connecticut", "Country": "USA", "Team Name": "155: The Technonuts"}},

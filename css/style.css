@@ -5,4 +5,21 @@
 #panel {
 	width: 20%;
 	height: 500px;
+	float: right;
+	position: relative;
+}
+
+.range-slider {
+	width: 300px;
+	margin: 3px;
+}
+
+#reverse {
+	float: left;
+	padding: 4px;
+}
+
+#skip {
+	float: right;
+	padding: 5px;
 }

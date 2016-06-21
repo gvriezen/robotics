@@ -1,0 +1,8 @@
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.8197937
+, 42.8592987]}, "properties": {"Year": "1992", "Team Number": "20", "City": "Clifton Park", "State": "New York", "Country": "USA", "Team Name": "20: The Rocketeers"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.1262436
+, 40.4865112]}, "properties": {"Year": "1992", "Team Number": "45", "City": "Kokomo", "State": "Indiana", "Country": "USA", "Team Name": "45: TechnoKats Robotics Team"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.6841965
+, 42.4207115]}, "properties": {"Year": "1992", "Team Number": "126", "City": "Clinton", "State": "Massachusetts", "Country": "USA", "Team Name": "126: Gael Force"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.106781
+, 33.1390686]}, "properties": {"Year": "1992", "Team Number": "148", "City": "Greenville", "State": "Texas", "Country": "USA", "Team Name": "148: Robowranglers"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.4643326
+, 42.7586212]}, "properties": {"Year": "1992", "Team Number": "151", "City": "Nashua", "State": "New Hampshire", "Country": "USA", "Team Name": "151: Tough Techs"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.8021927
+, 42.2634087]}, "properties": {"Year": "1992", "Team Number": "190", "City": "Worcester", "State": "Massachusetts", "Country": "USA", "Team Name": "190: Gompei and the H.E.R.D."}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.6163177
+, 43.1557999]}, "properties": {"Year": "1992", "Team Number": "191", "City": "Rochester", "State": "New York", "Country": "USA", "Team Name": "191: X-CATS"}},
