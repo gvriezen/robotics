@@ -5,4 +5,4 @@
 , 33.1390686]}, "properties": {"Year": "1992", "Team Number": "148", "City": "Greenville", "State": "Texas", "Country": "USA", "Team Name": "148: Robowranglers"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.4643326
 , 42.7586212]}, "properties": {"Year": "1992", "Team Number": "151", "City": "Nashua", "State": "New Hampshire", "Country": "USA", "Team Name": "151: Tough Techs"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.8021927
 , 42.2634087]}, "properties": {"Year": "1992", "Team Number": "190", "City": "Worcester", "State": "Massachusetts", "Country": "USA", "Team Name": "190: Gompei and the H.E.R.D."}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.6163177
-, 43.1557999]}, "properties": {"Year": "1992", "Team Number": "191", "City": "Rochester", "State": "New York", "Country": "USA", "Team Name": "191: X-CATS"}},
+, 43.1557999]}, "properties": {"Year": "1992", "Team Number": "191", "City": "Rochester", "State": "New York", "Country": "USA", "Team Name": "191: X-CATS"}}]}

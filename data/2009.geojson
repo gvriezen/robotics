@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.4869003
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.4869003
 , 43.471199]}, "properties": {"Year": "2009", "Team Number": "2702", "City": "Kitchener", "State": "Ontario", "Country": "Canada", "Team Name": "2702: Rebels"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-88.3088226
 , 41.8499985]}, "properties": {"Year": "2009", "Team Number": "2704", "City": "Batavia", "State": "Illinois", "Country": "USA", "Team Name": "2704: Order 2 Chaos"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.4601288
 , 44.8586617]}, "properties": {"Year": "2009", "Team Number": "2705", "City": "Eden Prairie", "State": "Minnesota", "Country": "USA", "Team Name": "2705: WE ROBOT"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.6880035
@@ -173,4 +173,4 @@
 , 41.8842506]}, "properties": {"Year": "2009", "Team Number": "3110", "City": "Chicago", "State": "Illinois", "Country": "USA", "Team Name": "3110: SeaBots"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.9470978
 , 45.4021988]}, "properties": {"Year": "2009", "Team Number": "3117", "City": "Sherbrooke", "State": "QuTbec", "Country": "Canada", "Team Name": "3117: Harfangs"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.4418106
 , 34.1503868]}, "properties": {"Year": "2009", "Team Number": "3120", "City": "Sherman Oaks", "State": "California", "Country": "USA", "Team Name": "3120: RoboKnights"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-94.461113
-, 44.3122215]}, "properties": {"Year": "2009", "Team Number": "3122", "City": "New Ulm", "State": "Minnesota", "Country": "USA", "Team Name": "3122: The Alluminators"}},
+, 44.3122215]}, "properties": {"Year": "2009", "Team Number": "3122", "City": "New Ulm", "State": "Minnesota", "Country": "USA", "Team Name": "3122: The Alluminators"}}]}

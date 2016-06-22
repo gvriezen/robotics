@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-94.7154312
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-94.7154312
 , 39.0229187]}, "properties": {"Year": "2007", "Team Number": "1982", "City": "Shawnee", "State": "Kansas", "Country": "USA", "Team Name": "1982: Cougar Robotics"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.3294525
 , 47.603569]}, "properties": {"Year": "2007", "Team Number": "1983", "City": "Seattle", "State": "Washington", "Country": "USA", "Team Name": "1983: Skunk Works Robotics"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-94.6716766
 , 38.98489]}, "properties": {"Year": "2007", "Team Number": "1984", "City": "Overland Park", "State": "Kansas", "Country": "USA", "Team Name": "1984: Raider Revolution Robotics"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-90.3233719
@@ -114,4 +114,4 @@
 , 42.2002411]}, "properties": {"Year": "2007", "Team Number": "2262", "City": "Holliston", "State": "Massachusetts", "Country": "USA", "Team Name": "2262: Robo-Panthers"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.4757996
 , 45.0188103]}, "properties": {"Year": "2007", "Team Number": "2264", "City": "Plymouth", "State": "Minnesota", "Country": "USA", "Team Name": "2264: Wayzata Robotics"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.8860092
 , 40.8372917]}, "properties": {"Year": "2007", "Team Number": "2265", "City": "Bronx", "State": "New York", "Country": "USA", "Team Name": "2265: Fe Maidens"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.1331329
-, 19.4319496]}, "properties": {"Year": "2007", "Team Number": "2283", "City": "Mexico City", "State": "Distrito Federal", "Country": "Mexico", "Team Name": "2283: Panteras"}},
+, 19.4319496]}, "properties": {"Year": "2007", "Team Number": "2283", "City": "Mexico City", "State": "Distrito Federal", "Country": "Mexico", "Team Name": "2283: Panteras"}}]}

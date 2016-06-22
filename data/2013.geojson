@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.8913574
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.8913574
 , 47.0392303]}, "properties": {"Year": "2013", "Team Number": "4450", "City": "Olympia", "State": "Washington", "Country": "USA", "Team Name": "4450: Olympia Robotics Federation"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-82.0148087
 , 34.4993591]}, "properties": {"Year": "2013", "Team Number": "4451", "City": "Laurens", "State": "South Carolina", "Country": "USA", "Team Name": "4451: ROBOTZ Garage"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.9642487
 , 42.2749214]}, "properties": {"Year": "2013", "Team Number": "4453", "City": "Marshall", "State": "Michigan", "Country": "USA", "Team Name": "4453: The Red Hot Chili Bots"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.1624527
@@ -255,4 +255,4 @@
 , 42.3316803]}, "properties": {"Year": "2013", "Team Number": "4854", "City": "Detroit", "State": "Michigan", "Country": "USA", "Team Name": "4854: Trobots"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.2726212
 , 42.4032097]}, "properties": {"Year": "2013", "Team Number": "4855", "City": "South Haven", "State": "Michigan", "Country": "USA", "Team Name": "4855: Ramageddon"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.8317032
 , 40.7820015]}, "properties": {"Year": "2013", "Team Number": "4856", "City": "New York", "State": "New York", "Country": "USA", "Team Name": "4856: Double X"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.6455994
-, 44.0326385]}, "properties": {"Year": "2013", "Team Number": "4859", "City": "Byron", "State": "Minnesota", "Country": "USA", "Team Name": "4859: The CyBears"}},
+, 44.0326385]}, "properties": {"Year": "2013", "Team Number": "4859", "City": "Byron", "State": "Minnesota", "Country": "USA", "Team Name": "4859: The CyBears"}}]}

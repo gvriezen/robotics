@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.187851
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.187851
 , 47.6100197]}, "properties": {"Year": "2001", "Team Number": "492", "City": "Bellevue", "State": "Washington", "Country": "USA", "Team Name": "492: Titan Robotics Club"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.5033875
 , 42.9169312]}, "properties": {"Year": "2001", "Team Number": "494", "City": "Goodrich", "State": "Michigan", "Country": "USA", "Team Name": "494: Martians"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.0710373
 , 40.9460182]}, "properties": {"Year": "2001", "Team Number": "496", "City": "Port Jefferson", "State": "New York", "Country": "USA", "Team Name": "496: Royals"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-112.1862717
@@ -74,4 +74,4 @@
 , 40.1797409]}, "properties": {"Year": "2001", "Team Number": "708", "City": "Horsham", "State": "Pennsylvania", "Country": "USA", "Team Name": "708: Hatters Robotics"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.3154068
 , 40.0314102]}, "properties": {"Year": "2001", "Team Number": "709", "City": "Bryn Mawr", "State": "Pennsylvania", "Country": "USA", "Team Name": "709: Femme Tech Fatale"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.1742096
 , 40.7319717]}, "properties": {"Year": "2001", "Team Number": "714", "City": "Newark", "State": "New Jersey", "Country": "USA", "Team Name": "714: panthera"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.3569412
-, 41.975811]}, "properties": {"Year": "2001", "Team Number": "716", "City": "Falls Village", "State": "Connecticut", "Country": "USA", "Team Name": "716: Who'sCTEKS"}},
+, 41.975811]}, "properties": {"Year": "2001", "Team Number": "716", "City": "Falls Village", "State": "Connecticut", "Country": "USA", "Team Name": "716: Who'sCTEKS"}}]}

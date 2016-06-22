@@ -16,6 +16,7 @@ function createMap(){
 
     //call getData function
     createMarkers(map);
+    createSequenceControls(map);
     // getData(map);
 };
 
@@ -131,7 +132,7 @@ function createSequenceControls(map, attributes) {
 };
 //1992
 function createMarkers (map) {
-    var markers = $.ajax(
+    var one = $.ajax(
     "data/1992.geojson",
      {
           dataType: "json",
@@ -152,8 +153,71 @@ function createMarkers (map) {
               }).addTo(map);
             }
         });
-    var dots = $.ajax(
+    var two = $.ajax(
     "data/1994.geojson",
+     {
+          dataType: "json",
+          success: function(response){
+              var geojsonMarkerOptions = {
+                radius: 3,
+                fillColor: "#fff",
+                fillOpacity: 1,
+                color: "orange",
+                weight: 1.5, 
+                opacity: 1
+              };
+  //create a Leaflet GeoJSON layer and add it to the map
+              L.geoJson(response,{
+                pointToLayer: function(feature, latlng) {
+                  return L.circleMarker(latlng, geojsonMarkerOptions);
+                }
+              }).addTo(map);
+            }
+        });
+    var three = $.ajax(
+    "data/1995.geojson",
+     {
+          dataType: "json",
+          success: function(response){
+              var geojsonMarkerOptions = {
+                radius: 3,
+                fillColor: "#fff",
+                fillOpacity: 1,
+                color: "yellow",
+                weight: 1.5, 
+                opacity: 1
+              };
+  //create a Leaflet GeoJSON layer and add it to the map
+              L.geoJson(response,{
+                pointToLayer: function(feature, latlng) {
+                  return L.circleMarker(latlng, geojsonMarkerOptions);
+                }
+              }).addTo(map);
+            }
+        });
+    var four = $.ajax(
+    "data/1996.geojson",
+     {
+          dataType: "json",
+          success: function(response){
+              var geojsonMarkerOptions = {
+                radius: 3,
+                fillColor: "#fff",
+                fillOpacity: 1,
+                color: "green",
+                weight: 1.5, 
+                opacity: 1
+              };
+  //create a Leaflet GeoJSON layer and add it to the map
+              L.geoJson(response,{
+                pointToLayer: function(feature, latlng) {
+                  return L.circleMarker(latlng, geojsonMarkerOptions);
+                }
+              }).addTo(map);
+            }
+        });
+    var five = $.ajax(
+    "data/1997.geojson",
      {
           dataType: "json",
           success: function(response){
@@ -173,6 +237,32 @@ function createMarkers (map) {
               }).addTo(map);
             }
         });
+    var six = $.ajax(
+    "data/1998.geojson",
+     {
+          dataType: "json",
+          success: function(response){
+              var geojsonMarkerOptions = {
+                radius: 3,
+                fillColor: "#fff",
+                fillOpacity: 1,
+                color: "purple",
+                weight: 1.5, 
+                opacity: 1
+              };
+  //create a Leaflet GeoJSON layer and add it to the map
+              L.geoJson(response,{
+                pointToLayer: function(feature, latlng) {
+                  return L.circleMarker(latlng, geojsonMarkerOptions);
+                }
+              }).addTo(map);
+            }
+        });
+    
+    
+    
+    
+
 
 };
 //1993

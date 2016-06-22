@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.3537369
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.3537369
 , 33.91819]}, "properties": {"Year": "1999", "Team Number": "207", "City": "Hawthorne", "State": "California", "Country": "USA", "Team Name": "207: METALCRAFTERS"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.2815018
 , 42.9332008]}, "properties": {"Year": "1999", "Team Number": "213", "City": "Keene", "State": "New Hampshire", "Country": "USA", "Team Name": "213: The Dirty Birds"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-85.7628937
 , 42.9069214]}, "properties": {"Year": "1999", "Team Number": "216", "City": "Grandville", "State": "Michigan", "Country": "USA", "Team Name": "216: More RoboDawgs"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.0135574
@@ -55,4 +55,4 @@
 , 33.8640404]}, "properties": {"Year": "1999", "Team Number": "330", "City": "Hermosa Beach", "State": "California", "Country": "USA", "Team Name": "330: The Beach Bots"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.9903564
 , 40.6924515]}, "properties": {"Year": "1999", "Team Number": "333", "City": "Brooklyn", "State": "New York", "Country": "USA", "Team Name": "333: MEGALODONS"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.9903564
 , 40.6924515]}, "properties": {"Year": "1999", "Team Number": "334", "City": "Brooklyn", "State": "New York", "Country": "USA", "Team Name": "334: TechKnights"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.9903564
-, 40.6924515]}, "properties": {"Year": "1999", "Team Number": "335", "City": "Brooklyn", "State": "New York", "Country": "USA", "Team Name": "335: Skillz Tech Gear Botz"}},
+, 40.6924515]}, "properties": {"Year": "1999", "Team Number": "335", "City": "Brooklyn", "State": "New York", "Country": "USA", "Team Name": "335: Skillz Tech Gear Botz"}}]}

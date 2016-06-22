@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.1081696
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.1081696
 , 35.9987907]}, "properties": {"Year": "2008", "Team Number": "2333", "City": "Sapulpa", "State": "Oklahoma", "Country": "USA", "Team Name": "2333: S.C.R.E.E.C.H."}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-94.6303329
 , 38.9870682]}, "properties": {"Year": "2008", "Team Number": "2335", "City": "Prairie Village", "State": "Kansas", "Country": "USA", "Team Name": "2335: Sargon"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.6301575
 , 42.9274902]}, "properties": {"Year": "2008", "Team Number": "2337", "City": "Grand Blanc", "State": "Michigan", "Country": "USA", "Team Name": "2337: EngiNERDs"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-88.3530197
@@ -171,4 +171,4 @@
 , 44.7436218]}, "properties": {"Year": "2008", "Team Number": "2667", "City": "Apple Valley", "State": "Minnesota", "Country": "USA", "Team Name": "2667: Knights of the Valley"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.0479965
 , 42.3316803]}, "properties": {"Year": "2008", "Team Number": "2673", "City": "Detroit", "State": "Michigan", "Country": "USA", "Team Name": "2673: Tenacious Technicians"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.1393585
 , 42.2554398]}, "properties": {"Year": "2008", "Team Number": "2676", "City": "Ecorse", "State": "Michigan", "Country": "USA", "Team Name": "2676: Ecorse Robo Raiders"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.4124374
-, 35.5279808]}, "properties": {"Year": "2008", "Team Number": "2682", "City": "Winterville", "State": "North Carolina", "Country": "USA", "Team Name": "2682: Boneyard Robotics"}},
+, 35.5279808]}, "properties": {"Year": "2008", "Team Number": "2682", "City": "Winterville", "State": "North Carolina", "Country": "USA", "Team Name": "2682: Boneyard Robotics"}}]}

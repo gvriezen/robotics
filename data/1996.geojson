@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.1607895
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.1607895
 , 37.4446602]}, "properties": {"Year": "1996", "Team Number": "8", "City": "Palo Alto", "State": "California", "Country": "USA", "Team Name": "8: Team 8"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.3852921
 , 36.3350983]}, "properties": {"Year": "1996", "Team Number": "16", "City": "Mountain Home", "State": "Arkansas", "Country": "USA", "Team Name": "16: Bomb Squad"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.2953262
 , 41.0010681]}, "properties": {"Year": "1996", "Team Number": "28", "City": "Sag Harbor", "State": "New York", "Country": "USA", "Team Name": "28: Pierson Whalers"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.2205276
@@ -17,4 +17,4 @@
 , 42.8619308]}, "properties": {"Year": "1996", "Team Number": "138", "City": "Amherst", "State": "New Hampshire", "Country": "USA", "Team Name": "138: Entropy"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-69.203949
 , 45.3152504]}, "properties": {"Year": "1996", "Team Number": "172", "City": "Gorham/Falmouth", "State": "Maine", "Country": "USA", "Team Name": "172: Northern Force"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.5743637
 , 41.9983482]}, "properties": {"Year": "1996", "Team Number": "175", "City": "Enfield", "State": "Connecticut", "Country": "USA", "Team Name": "175: Buzz Robotics"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.631813
-, 41.9296989]}, "properties": {"Year": "1996", "Team Number": "176", "City": "Windsor Locks", "State": "Connecticut", "Country": "USA", "Team Name": "176: Aces High"}},
+, 41.9296989]}, "properties": {"Year": "1996", "Team Number": "176", "City": "Windsor Locks", "State": "Connecticut", "Country": "USA", "Team Name": "176: Aces High"}}]}

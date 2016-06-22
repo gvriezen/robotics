@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.8860092
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.8860092
 , 40.8372917]}, "properties": {"Year": "2002", "Team Number": "743", "City": "Bronx", "State": "New York", "Country": "USA", "Team Name": "743: Technobots"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.1435623
 , 26.1236706]}, "properties": {"Year": "2002", "Team Number": "744", "City": "Ft. Lauderdale", "State": "Florida", "Country": "USA", "Team Name": "744: Shark Attack"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.4328003
 , 43.6573982]}, "properties": {"Year": "2002", "Team Number": "746", "City": "Torornto", "State": "Ontario", "Country": "Canada", "Team Name": "746: Gearheads"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.2286835
@@ -74,4 +74,4 @@
 , 33.4482498]}, "properties": {"Year": "2002", "Team Number": "991", "City": "Phoenix", "State": "Arizona", "Country": "USA", "Team Name": "991: BroncoBotics"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.7503204
 , 32.8795395]}, "properties": {"Year": "2002", "Team Number": "996", "City": "Casa Grande", "State": "Arizona", "Country": "USA", "Team Name": "996: Mecha Knights"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-123.2635269
 , 44.5650406]}, "properties": {"Year": "2002", "Team Number": "997", "City": "Corvallis", "State": "Oregon", "Country": "USA", "Team Name": "997: Spartan Robotics"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.8991089
-, 41.5116882]}, "properties": {"Year": "2002", "Team Number": "999", "City": "Cheshire", "State": "Connecticut", "Country": "USA", "Team Name": "999: MechaRAMS"}},
+, 41.5116882]}, "properties": {"Year": "2002", "Team Number": "999", "City": "Cheshire", "State": "Connecticut", "Country": "USA", "Team Name": "999: MechaRAMS"}}]}

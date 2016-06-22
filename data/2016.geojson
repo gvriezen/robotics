@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-48.5481796
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-48.5481796
 , -27.5977993]}, "properties": {"Year": "2016", "Team Number": "5800", "City": "FLORIANOPOLIS", "State": "Santa Catarina", "Country": "Brazil", "Team Name": "5800: Magic Island Robotics"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-94.4156265
 , 39.0932388]}, "properties": {"Year": "2016", "Team Number": "5801", "City": "Independence", "State": "Missouri", "Country": "USA", "Team Name": "5801: CTC Inspire"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.2453232
 , 34.0534897]}, "properties": {"Year": "2016", "Team Number": "5802", "City": "Los Angeles", "State": "California", "Country": "USA", "Team Name": "5802: Los STEMateros"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.2742691

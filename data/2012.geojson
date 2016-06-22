@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-119.2923203
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-119.2923203
 , 34.2808189]}, "properties": {"Year": "2012", "Team Number": "3925", "City": "Ventura", "State": "California", "Country": "USA", "Team Name": "3925: Circuit of Life"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.0239105
 , 45.0064011]}, "properties": {"Year": "2012", "Team Number": "3926", "City": "Maplewood", "State": "Minnesota", "Country": "USA", "Team Name": "3926: MPArors"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.6202011
 , 42.025341]}, "properties": {"Year": "2012", "Team Number": "3928", "City": "Ames", "State": "Iowa", "Country": "USA", "Team Name": "3928: Team Neutrino"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.1624527
@@ -292,4 +292,4 @@
 , 29.4245796]}, "properties": {"Year": "2012", "Team Number": "4412", "City": "San Antonio", "State": "Texas", "Country": "USA", "Team Name": "4412: Steel Stallions"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.0636978
 , 33.8685417]}, "properties": {"Year": "2012", "Team Number": "4415", "City": "Cerritos", "State": "California", "Country": "USA", "Team Name": "4415: EPIC Robotz"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [34.8346291
 , 32.1365204]}, "properties": {"Year": "2012", "Team Number": "4416", "City": "Ramat Hasharon", "State": "Tel-Aviv", "Country": "Israel", "Team Name": "4416: Team Rocket"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-104.9463425
-, 39.5437393]}, "properties": {"Year": "2012", "Team Number": "4418", "City": "Highlands Ranch", "State": "Colorado", "Country": "USA", "Team Name": "4418: Team IMPULSE"}},
+, 39.5437393]}, "properties": {"Year": "2012", "Team Number": "4418", "City": "Highlands Ranch", "State": "Colorado", "Country": "USA", "Team Name": "4418: Team IMPULSE"}}]}

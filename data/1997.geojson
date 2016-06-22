@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.2884216
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.2884216
 , 42.6368713]}, "properties": {"Year": "1997", "Team Number": "1", "City": "Pontiac", "State": "Michigan", "Country": "USA", "Team Name": "1: The Juggernauts"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.4653854
 , 34.1978111]}, "properties": {"Year": "1997", "Team Number": "4", "City": "Van Nuys", "State": "California", "Country": "USA", "Team Name": "4: Team 4 ELEMENT"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.6988907
 , 40.8469086]}, "properties": {"Year": "1997", "Team Number": "11", "City": "Flanders", "State": "New Jersey", "Country": "USA", "Team Name": "11: MORT"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.4719009
@@ -29,4 +29,4 @@
 , 41.1662407]}, "properties": {"Year": "1997", "Team Number": "156", "City": "Fairview", "State": "Pennsylvania", "Country": "USA", "Team Name": "156: RPM  - Robotics Plus Mayhem"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.8385696
 , 41.7121201]}, "properties": {"Year": "1997", "Team Number": "178", "City": "Farmington", "State": "Connecticut", "Country": "USA", "Team Name": "178: The 2nd Law Enforcers"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.1607895
 , 37.4446602]}, "properties": {"Year": "1997", "Team Number": "192", "City": "Palo Alto", "State": "California", "Country": "USA", "Team Name": "192: GRT"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.6988907
-, 40.8469086]}, "properties": {"Year": "1997", "Team Number": "193", "City": "Flanders", "State": "New Jersey", "Country": "USA", "Team Name": "193: MORT Beta"}},
+, 40.8469086]}, "properties": {"Year": "1997", "Team Number": "193", "City": "Flanders", "State": "New Jersey", "Country": "USA", "Team Name": "193: MORT Beta"}}]}

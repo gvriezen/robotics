@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.6163177
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.6163177
 , 43.1557999]}, "properties": {"Year": "1995", "Team Number": "73", "City": "Rochester", "State": "New York", "Country": "USA", "Team Name": "73: The Illumination"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.1017609
 , 42.7730904]}, "properties": {"Year": "1995", "Team Number": "74", "City": "Holland", "State": "Michigan", "Country": "USA", "Team Name": "74: Team C.H.A.O.S."}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.1435623
 , 26.1236706]}, "properties": {"Year": "1995", "Team Number": "108", "City": "Ft. Lauderdale", "State": "Florida", "Country": "USA", "Team Name": "108: SigmaC@T Robotic Team"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.6907196
@@ -9,4 +9,4 @@
 , 42.872509]}, "properties": {"Year": "1995", "Team Number": "166", "City": "Merrimack", "State": "New Hampshire", "Country": "USA", "Team Name": "166: Chop Shop"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-90.4801331
 , 42.7349281]}, "properties": {"Year": "1995", "Team Number": "171", "City": "Platteville", "State": "Wisconsin", "Country": "USA", "Team Name": "171: Cheese Curd Herd"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.3726196
 , 41.8739319]}, "properties": {"Year": "1995", "Team Number": "173", "City": "Tolland", "State": "Connecticut", "Country": "USA", "Team Name": "173: RAGE (Robotics And Gadget Engineering)"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.5601501
-, 41.8254585]}, "properties": {"Year": "1995", "Team Number": "177", "City": "South Windsor", "State": "Connecticut", "Country": "USA", "Team Name": "177: Bobcat Robotics"}},
+, 41.8254585]}, "properties": {"Year": "1995", "Team Number": "177", "City": "South Windsor", "State": "Connecticut", "Country": "USA", "Team Name": "177: Bobcat Robotics"}}]}

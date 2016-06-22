@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.8079834
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.8079834
 , 28.6080303]}, "properties": {"Year": "1998", "Team Number": "21", "City": "Titusville", "State": "Florida", "Country": "USA", "Team Name": "21: ComBBAT"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.8127975
 , 41.2361984]}, "properties": {"Year": "1998", "Team Number": "48", "City": "Warren", "State": "Ohio", "Country": "USA", "Team Name": "48: Delphi E.L.I.T.E."}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.8803101
 , 39.0006714]}, "properties": {"Year": "1998", "Team Number": "53", "City": "Greenbelt", "State": "Maryland", "Country": "USA", "Team Name": "53: Area 53"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-95.3697815
@@ -29,4 +29,4 @@
 , 39.7179298]}, "properties": {"Year": "1998", "Team Number": "203", "City": "Sicklerville", "State": "New Jersey", "Country": "USA", "Team Name": "203: One TUFF Team (Team United for FIRST)"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.9837723
 , 39.8549995]}, "properties": {"Year": "1998", "Team Number": "204", "City": "Voorhees", "State": "New Jersey", "Country": "USA", "Team Name": "204: Eastern Robotic Vikings"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-95.1962967
 , 29.6908398]}, "properties": {"Year": "1998", "Team Number": "231", "City": "Pasadena", "State": "Texas", "Country": "USA", "Team Name": "231: High Voltage"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.2853088
-, 40.2405815]}, "properties": {"Year": "1998", "Team Number": "272", "City": "Lansdale", "State": "Pennsylvania", "Country": "USA", "Team Name": "272: Cyber-Crusaders"}},
+, 40.2405815]}, "properties": {"Year": "1998", "Team Number": "272", "City": "Lansdale", "State": "Pennsylvania", "Country": "USA", "Team Name": "272: Cyber-Crusaders"}}]}

@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-117.1617203
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-117.1617203
 , 32.7156906]}, "properties": {"Year": "2010", "Team Number": "3128", "City": "San Diego", "State": "California", "Country": "USA", "Team Name": "3128: Aluminum Narwhals"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.9406128
 , 44.9198685]}, "properties": {"Year": "2010", "Team Number": "3130", "City": "Woodbury", "State": "Minnesota", "Country": "USA", "Team Name": "3130: The East Ridge Robotic Ominous RaptorS - the ERRORS"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.5946426
 , 45.3803902]}, "properties": {"Year": "2010", "Team Number": "3131", "City": "Gladstone", "State": "Oregon", "Country": "USA", "Team Name": "3131: Gladiators"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [151.2030029
@@ -163,4 +163,4 @@
 , 42.4654808]}, "properties": {"Year": "2010", "Team Number": "3414", "City": "Farmington", "State": "Michigan", "Country": "USA", "Team Name": "3414: Hackbots"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-97.7429886
 , 30.2675896]}, "properties": {"Year": "2010", "Team Number": "3417", "City": "Austin", "State": "Texas", "Country": "USA", "Team Name": "3417: Mechatronics"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-87.8119736
 , 43.7286911]}, "properties": {"Year": "2010", "Team Number": "3418", "City": "Sheboygan Falls", "State": "Wisconsin", "Country": "USA", "Team Name": "3418: Robo Riot"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.8317032
-, 40.7820015]}, "properties": {"Year": "2010", "Team Number": "3419", "City": "New York", "State": "New York", "Country": "USA", "Team Name": "3419: RoHawks"}},
+, 40.7820015]}, "properties": {"Year": "2010", "Team Number": "3419", "City": "New York", "State": "New York", "Country": "USA", "Team Name": "3419: RoHawks"}}]}

@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.045372
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.045372
 , 33.9988213]}, "properties": {"Year": "2014", "Team Number": "4901", "City": "Columbia", "State": "South Carolina", "Country": "USA", "Team Name": "4901: Garnet Squadron"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.7537994
 , 43.3737984]}, "properties": {"Year": "2014", "Team Number": "4902", "City": "Burlington", "State": "Ontario", "Country": "Canada", "Team Name": "4902: The Wildebots"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.0157013
 , 42.3153]}, "properties": {"Year": "2014", "Team Number": "4903", "City": "Windsor", "State": "Ontario", "Country": "Canada", "Team Name": "4903: Mustangs"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.3556519
@@ -308,4 +308,4 @@
 , 19.381321]}, "properties": {"Year": "2014", "Team Number": "5344", "City": "Benito Juarez", "State": "Distrito Federal", "Country": "Mexico", "Team Name": "5344: STEEL-ROBID"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.2987671
 , 42.3690186]}, "properties": {"Year": "2014", "Team Number": "5347", "City": "Weston", "State": "Massachusetts", "Country": "USA", "Team Name": "5347: Gryphons"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-94.1917725
 , 45.0800018]}, "properties": {"Year": "2014", "Team Number": "5348", "City": "Cokato", "State": "Minnesota", "Country": "USA", "Team Name": "5348: The Dwarvin Engineers"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-87.6324463
-, 41.8842506]}, "properties": {"Year": "2014", "Team Number": "5350", "City": "chicago", "State": "Illinois", "Country": "USA", "Team Name": "5350: Hope Robotics"}},
+, 41.8842506]}, "properties": {"Year": "2014", "Team Number": "5350", "City": "chicago", "State": "Illinois", "Country": "USA", "Team Name": "5350: Hope Robotics"}}]}

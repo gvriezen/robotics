@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-94.8188705
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-94.8188705
 , 38.8835297]}, "properties": {"Year": "2006", "Team Number": "1710", "City": "Olathe", "State": "Kansas", "Country": "USA", "Team Name": "1710: The Ravonics Revolution"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-85.6520996
 , 44.7787018]}, "properties": {"Year": "2006", "Team Number": "1711", "City": "Traverse City", "State": "Michigan", "Country": "USA", "Team Name": "1711: Raptors"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.2899704
 , 40.0073395]}, "properties": {"Year": "2006", "Team Number": "1712", "City": "Ardmore", "State": "Pennsylvania", "Country": "USA", "Team Name": "1712: Dawgma"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-87.9068375
@@ -103,4 +103,4 @@
 , 37.3385811]}, "properties": {"Year": "2006", "Team Number": "1967", "City": "San Jose", "State": "California", "Country": "USA", "Team Name": "1967: The Janksters"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-115.5699692
 , 32.7957993]}, "properties": {"Year": "2006", "Team Number": "1972", "City": "El Centro", "State": "California", "Country": "USA", "Team Name": "1972: Searing Engineering"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0567398
 , 42.3586617]}, "properties": {"Year": "2006", "Team Number": "1973", "City": "Boston", "State": "Massachusetts", "Country": "USA", "Team Name": "1973: Brighton Burning Tiger"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-105.0739212
-, 40.3927498]}, "properties": {"Year": "2006", "Team Number": "1977", "City": "Loveland", "State": "Colorado", "Country": "USA", "Team Name": "1977: Loveland High Robotics PowerSquids"}},
+, 40.3927498]}, "properties": {"Year": "2006", "Team Number": "1977", "City": "Loveland", "State": "Colorado", "Country": "USA", "Team Name": "1977: Loveland High Robotics PowerSquids"}}]}

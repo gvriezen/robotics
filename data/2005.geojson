@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-85.4942398
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-85.4942398
 , 40.8828316]}, "properties": {"Year": "2005", "Team Number": "1501", "City": "Huntington", "State": "Indiana", "Country": "USA", "Team Name": "1501: Team THRUST"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.0192566
 , 42.3184586]}, "properties": {"Year": "2005", "Team Number": "1502", "City": "Chelsea", "State": "Michigan", "Country": "USA", "Team Name": "1502: Technical Difficulties"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.4300385
 , 42.7154503]}, "properties": {"Year": "2005", "Team Number": "1504", "City": "Okemos", "State": "Michigan", "Country": "USA", "Team Name": "1504: Desperate Penguins"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.6867905
@@ -83,4 +83,4 @@
 , 37.4446602]}, "properties": {"Year": "2005", "Team Number": "1700", "City": "Palo Alto", "State": "California", "Country": "USA", "Team Name": "1700: Gatorbotics"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.0479965
 , 42.3316803]}, "properties": {"Year": "2005", "Team Number": "1701", "City": "Detroit", "State": "Michigan", "Country": "USA", "Team Name": "1701: RoboCubs"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-90.8539505
 , 38.8115387]}, "properties": {"Year": "2005", "Team Number": "1706", "City": "Wentzville", "State": "Missouri", "Country": "USA", "Team Name": "1706: Ratchet Rockers"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.8654099
-, 40.35149]}, "properties": {"Year": "2005", "Team Number": "1708", "City": "McKeesport", "State": "Pennsylvania", "Country": "USA", "Team Name": "1708: AMP'D Robotics"}},
+, 40.35149]}, "properties": {"Year": "2005", "Team Number": "1708", "City": "McKeesport", "State": "Pennsylvania", "Country": "USA", "Team Name": "1708: AMP'D Robotics"}}]}

@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.8021927
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.8021927
 , 42.2634087]}, "properties": {"Year": "2015", "Team Number": "5400", "City": "Worcester", "State": "Massachusetts", "Country": "USA", "Team Name": "5400: WARP"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.9439392
 , 40.1106186]}, "properties": {"Year": "2015", "Team Number": "5401", "City": "Bensalem", "State": "Pennsylvania", "Country": "USA", "Team Name": "5401: Fightin' Robotic Owls"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.2412109
 , 40.6637917]}, "properties": {"Year": "2015", "Team Number": "5402", "City": "Walton", "State": "Indiana", "Country": "USA", "Team Name": "5402: Iron Kings"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.4894028
@@ -310,4 +310,4 @@
 , 51.5064201]}, "properties": {"Year": "2015", "Team Number": "5781", "City": "London", "State": "England", "Country": "United Kingdom", "Team Name": "5781: Petchey Robotics Team"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-103.1594315
 , 32.4358597]}, "properties": {"Year": "2015", "Team Number": "5783", "City": "Eunice", "State": "New Mexico", "Country": "USA", "Team Name": "5783: RoboDucks"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.58004
 , 43.3703804]}, "properties": {"Year": "2015", "Team Number": "5784", "City": "Vassar", "State": "Michigan", "Country": "USA", "Team Name": "5784: Vulcans"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-91.1869888
-, 30.4433403]}, "properties": {"Year": "2015", "Team Number": "5785", "City": "Baton Rouge", "State": "Louisiana", "Country": "USA", "Team Name": "5785: The Shield"}},
+, 30.4433403]}, "properties": {"Year": "2015", "Team Number": "5785", "City": "Baton Rouge", "State": "Louisiana", "Country": "USA", "Team Name": "5785: The Shield"}}]}

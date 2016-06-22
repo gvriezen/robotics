@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.5458832
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.5458832
 , 33.9531898]}, "properties": {"Year": "2003", "Team Number": "1002", "City": "Marietta", "State": "Georgia", "Country": "USA", "Team Name": "1002: The CircuitRunners"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-110.9697571
 , 32.22155]}, "properties": {"Year": "2003", "Team Number": "1011", "City": "Tucson", "State": "Arizona", "Country": "USA", "Team Name": "1011: CRUSH"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.1330872
 , 40.104969]}, "properties": {"Year": "2003", "Team Number": "1014", "City": "Dublin", "State": "Ohio", "Country": "USA", "Team Name": "1014: Bad Robots"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.1499634
@@ -55,4 +55,4 @@
 , 39.9522781]}, "properties": {"Year": "2003", "Team Number": "1218", "City": "Philadelphia", "State": "Pennsylvania", "Country": "USA", "Team Name": "1218: Vulcan Robotics"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-82.4586563
 , 35.3155708]}, "properties": {"Year": "2003", "Team Number": "1225", "City": "Hendersonville", "State": "North Carolina", "Country": "USA", "Team Name": "1225: Gorillas"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.2743607
 , 40.6043396]}, "properties": {"Year": "2003", "Team Number": "1228", "City": "Rahway", "State": "New Jersey", "Country": "USA", "Team Name": "1228: RoboTribe"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.8860092
-, 40.8372917]}, "properties": {"Year": "2003", "Team Number": "1230", "City": "Bronx", "State": "New York", "Country": "USA", "Team Name": "1230: The Lehman Lionics"}},
+, 40.8372917]}, "properties": {"Year": "2003", "Team Number": "1230", "City": "Bronx", "State": "New York", "Country": "USA", "Team Name": "1230: The Lehman Lionics"}}]}

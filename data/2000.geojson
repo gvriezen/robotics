@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.9922714
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.9922714
 , 37.8464012]}, "properties": {"Year": "2000", "Team Number": "337", "City": "Logan", "State": "West Virginia", "Country": "USA", "Team Name": "337: Hard Working Hard Hats"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.4081726
 , 38.4228783]}, "properties": {"Year": "2000", "Team Number": "339", "City": "Stafford", "State": "Virginia", "Country": "USA", "Team Name": "339: Kilroy Robotics"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.8846664
 , 43.1003418]}, "properties": {"Year": "2000", "Team Number": "340", "City": "Churchville", "State": "New York", "Country": "USA", "Team Name": "340: G.R.R. (Greater Rochester Robotics)"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.2201614
@@ -47,4 +47,4 @@
 , 42.2408104]}, "properties": {"Year": "2000", "Team Number": "470", "City": "Ypsilanti", "State": "Michigan", "Country": "USA", "Team Name": "470: Grizzly Robotics"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.3077621
 , 39.9807587]}, "properties": {"Year": "2000", "Team Number": "484", "City": "Havertown", "State": "Pennsylvania", "Country": "USA", "Team Name": "484: Roboforce"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.3657532
 , 39.8933907]}, "properties": {"Year": "2000", "Team Number": "486", "City": "Wallingford", "State": "Pennsylvania", "Country": "USA", "Team Name": "486: Positronic Panthers"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.3294525
-, 47.603569]}, "properties": {"Year": "2000", "Team Number": "488", "City": "Seattle", "State": "Washington", "Country": "USA", "Team Name": "488: Team XBot"}},
+, 47.603569]}, "properties": {"Year": "2000", "Team Number": "488", "City": "Seattle", "State": "Washington", "Country": "USA", "Team Name": "488: Team XBot"}}]}

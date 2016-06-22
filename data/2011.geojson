@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-70.7748184
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-70.7748184
 , 43.43853]}, "properties": {"Year": "2011", "Team Number": "3451", "City": "Sanford", "State": "Maine", "Country": "USA", "Team Name": "3451: The ANOMALY"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.3381195
 , 41.9466782]}, "properties": {"Year": "2011", "Team Number": "3452", "City": "Berrien Springs", "State": "Michigan", "Country": "USA", "Team Name": "3452: GreengineerZ"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-117.0849609
 , 33.7106514]}, "properties": {"Year": "2011", "Team Number": "3453", "City": "Winchester", "State": "California", "Country": "USA", "Team Name": "3453: DEM BOTS"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.9548187
@@ -230,4 +230,4 @@
 , 19.6401291]}, "properties": {"Year": "2011", "Team Number": "3880", "City": "Kailua-Kona", "State": "Hawaii", "Country": "USA", "Team Name": "3880: Tiki Techs"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-156.6776733
 , 20.8781605]}, "properties": {"Year": "2011", "Team Number": "3882", "City": "Lahaina", "State": "Hawaii", "Country": "USA", "Team Name": "3882: Lunas"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.9532166
 , 44.8336601]}, "properties": {"Year": "2011", "Team Number": "3883", "City": "Cottage Grove", "State": "Minnesota", "Country": "USA", "Team Name": "3883: Data Bits"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-85.6520996
-, 44.7787018]}, "properties": {"Year": "2011", "Team Number": "3886", "City": "Traverse City", "State": "Michigan", "Country": "USA", "Team Name": "3886: More Titans"}},
+, 44.7787018]}, "properties": {"Year": "2011", "Team Number": "3886", "City": "Traverse City", "State": "Michigan", "Country": "USA", "Team Name": "3886: More Titans"}}]}

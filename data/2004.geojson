@@ -1,4 +1,4 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.6052017
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.6052017
 , 43.6837006]}, "properties": {"Year": "2004", "Team Number": "1241", "City": "Mississauga", "State": "Ontario", "Country": "Canada", "Team Name": "1241: THEORY6"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.8300476
 , 42.956459]}, "properties": {"Year": "2004", "Team Number": "1243", "City": "Swartz Creek", "State": "Michigan", "Country": "USA", "Team Name": "1243: Dragons"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-105.1321182
 , 39.9772911]}, "properties": {"Year": "2004", "Team Number": "1245", "City": "Louisville", "State": "Colorado", "Country": "USA", "Team Name": "1245: MoHi Shazbots"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.4328003
@@ -82,4 +82,4 @@
 , 51.0452194]}, "properties": {"Year": "2004", "Team Number": "1482", "City": "Calgary", "State": "Alberta", "Country": "Canada", "Team Name": "1482: Ghosts"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.9374237
 , 33.4255104]}, "properties": {"Year": "2004", "Team Number": "1492", "City": "Tempe", "State": "Arizona", "Country": "USA", "Team Name": "1492: Team CAUTION"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.7552109
 , 42.6515503]}, "properties": {"Year": "2004", "Team Number": "1493", "City": "Albany", "State": "New York", "Country": "USA", "Team Name": "1493:  Falcons"}},{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.826683
-, 39.8221588]}, "properties": {"Year": "2004", "Team Number": "1495", "City": "West Grove", "State": "Pennsylvania", "Country": "USA", "Team Name": "1495: Red Devils"}},
+, 39.8221588]}, "properties": {"Year": "2004", "Team Number": "1495", "City": "West Grove", "State": "Pennsylvania", "Country": "USA", "Team Name": "1495: Red Devils"}}]}
